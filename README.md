@@ -34,4 +34,4 @@ git clone https://github.com/heroshg/FilmesApi.git
 3. **Executando o Projeto**:
 
 dotnet run OU
-CTRL + F5
+CTRL + F5 no Visual Studio
