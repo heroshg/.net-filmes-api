@@ -1,4 +1,4 @@
-# Documentação do Projeto: Autenticação e Autorização com .NET
+# Documentação do Projeto: Web API de Filmes com .NET
 
 ## Introdução
 Este repositório contém um projeto que explora os fundamentos de uma Web Api, além disso explora conceitos de relacionamento de entidades usando o EF Core
