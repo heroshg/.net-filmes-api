@@ -5,7 +5,7 @@ Este repositório contém um projeto que explora os fundamentos de uma Web Api, 
 
 ## Tecnologias Utilizadas
 - **ASP.NET Core**: Framework para desenvolvimento de aplicativos web e APIs.
-- **Entity Framework Core**: ORM (Object-Relational Mapping) para acesso a banco de dados.
+- **Entity Framework Core**: Modelagem e mapeamento de dados, consultas SQL com ORM
 - **MySql**
 
 ## Funcionalidades
@@ -15,6 +15,8 @@ Este repositório contém um projeto que explora os fundamentos de uma Web Api, 
 2. **Armazenar informações em um banco de dados**:
    - Criação da base de dados que contém Filmes, Cinemas e seus respectivos Endereços
 
+## Padrões
+  - DTO - Data Transfer Objects
 
 
 ## Configuração
